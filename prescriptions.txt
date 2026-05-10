@@ -1,0 +1,3 @@
+1,0,0,0, 12-05-2026, Paracetamol, Fever_and_pain
+2,0,0,0, 13-05-2026, Antibiotics, Infection_control
+3,0,0,0, 14-05-2026, Ibuprofen, Headache_relief
